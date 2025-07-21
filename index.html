@@ -39,42 +39,12 @@
 					<a href="#" id="Road"            class="dropdown-item"        onclick="$('#' + map.getMapTypeId()).removeClass('active'); map.setMapTypeId('Road');            $(this).addClass('active');">Road</a>
 				</div>
 			</div>
-
 		</ul>
 	</header>
 
 	<div id="map" style="background:rgb(43, 164, 210);"></div>
 
-	<script type="x/template" id="sectionTemplate">
-		{{#each sections as | section |}}
-			<section class="type">
-				<h3>{{name}}</h3>
-				<ul>
-					{{#each categories}}
-						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="{{name}}" data-section="{{section.name}}"> <img src="icons/{{icon}}"> {{name}}</label> <a href="#" class="details" data-section="{{section.name}}" data-name="{{name}}"><i class="icon-chevron-sign-right"></i></a></li>
-					{{/each}}					
-					{{#ifEquals name "General"}}
-						<li><label><input type="checkbox" {{#if enabled}}checked{{/if}} value="labels"> <img src="icons/General/wall-breach.png"> Labels</label> <a href="#" class="details" data-name="Labels"></a></li>
-					{{/ifEquals}}
-
-				</ul>
-			</section>
-		{{/each}}
-	</script>
-
-	<script type="x/template" id="categoryDetailsTemplate">
-		<section class="type">
-			<h3><a href="#" class="back details"><i class="icon-chevron-sign-left"></i></a> {{category}}</h3>
-			<ul class="listview">
-				{{#with this as | root |}}
-				{{#each locations}}
-					<li data-section="{{root.section}}" data-name="{{root.category}}"><div style="height:20px;width:20px;background-color:#{{fillcolor}};border: 3px solid #{{strokecolor}}; display:inline-block;margin-right:10px;"></div><label>{{title}}</label></li>
-				{{/each}}
-				{{/with}}
-			</ul>
-		</section>
-	</script>
-
+	<!-- Marker popup stays -->
 	<script type="x/template" id="markerPopupTemplate2">
 		<div id="info-window" style="max-width:420px;">
 			<div class="scrollable">
@@ -121,9 +91,5 @@
 			</div>
 		</div>
 	</script>
-
-	<div id="typeDetails" class="types"></div>
-
-	<div id="types" class="types"></div>
 </body>
 </html>
