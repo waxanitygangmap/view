@@ -6,7 +6,7 @@
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
-    "latlngarray": [
+                "latlngarray": [
 			{"lat": -64.772, "lng": -13.622},
 			{"lat": -65.683, "lng": -7.140},
 			{"lat": -67.532, "lng": -8.788},
