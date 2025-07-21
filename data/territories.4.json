@@ -119,6 +119,57 @@
 			{"lat": -74.547, "lng": 1.898},
 			{"lat": -74.239, "lng": 1.931}
 		]
+	},
+	{
+		"type": "Territories",
+		"title": "Holy Hood Pirus",
+		"notes": "Holy Hood Pirus",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "6e0707",
+		"fillcolor": "6e0707",
+		"latlngarray": [
+			{"lat": -74.984, "lng": -15.907},
+			{"lat": -75.184, "lng": -16.511},
+			{"lat": -75.622, "lng": -14.368},
+			{"lat": -75.441, "lng": -13.753}
+		]
+	},
+{
+        "type": "Territories",
+        "title": "Campanella Park Pirus",
+        "notes": "",
+        "wiki_link": "",
+        "order": 0,
+        "strokecolor": "9d6767",
+        "fillcolor": "9d6767",
+        "latlngarray": [
+            {"lat": -75.630, "lng": -3.916},
+            {"lat": -75.029, "lng": -1.455},
+            {"lat": -75.142, "lng": -0.895},
+            {"lat": -75.429, "lng": -0.445},
+            {"lat": -75.594, "lng": -1.730},
+            {"lat": -75.545, "lng": -1.917},
+            {"lat": -75.722, "lng": -2.829},
+            {"lat": -75.763, "lng": -3.521}
+        ]
+    },
+	{
+		"type": "Territories",
+		"title": "94 Hoover Criminal",
+		"notes": "94 Hoover Criminal",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "da9a0f",
+		"fillcolor": "da9a0f",
+		"latlngarray": [
+			{"lat": -73.868, "lng": -0.124},
+			{"lat": -73.609, "lng": -1.343},
+			{"lat": -74.325, "lng": -3.607},
+			{"lat": -74.836, "lng": -1.486},
+			{"lat": -74.619, "lng": -0.717},
+			{"lat": -74.378, "lng": -0.981}
+		]
 	}
 ]
 
