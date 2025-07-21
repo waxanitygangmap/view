@@ -1,15 +1,14 @@
-[
-	{
-		"title": "404 Casino",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-                "latlngarray": [
-			{"lat": -64.772, "lng": -13.622},
-			{"lat": -65.683, "lng": -7.140},
-			{"lat": -67.532, "lng": -8.788},
-			{"lat": -66.485, "lng": -15.379}
-		]
-	},
+{
+  "title": "Waxanity Gang",
+  "notes": "Territory near Vespucci",
+  "wiki_link": "",
+  "order": 0,
+  "strokecolor": "#FF0000",
+  "fillcolor": "#FF0000",
+  "latlngarray": [
+    { "lat": 34.0522, "lng": -118.2437 },
+    { "lat": 34.0522, "lng": -118.2427 },
+    { "lat": 34.0512, "lng": -118.2427 },
+    { "lat": 34.0512, "lng": -118.2437 }
+  ]
+}
