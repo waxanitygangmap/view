@@ -1,7 +1,7 @@
     {
         "type": "Territories",
         "title": "Playboys 13",
-        "notes": "<>",
+        "notes": "",
         "wiki_link": "",
         "order": 0,
         "strokecolor": "1a1a1a",
@@ -16,5 +16,24 @@
             {"lat": -72.387, "lng": -0.840},
             {"lat": -72.460, "lng": -1.323},
             {"lat": -72.267, "lng": -2.125}
+        ]
+    },
+    {
+        "type": "Territories",
+        "title": "Campanella Park Pirus",
+        "notes": "",
+        "wiki_link": "",
+        "order": 0,
+        "strokecolor": "d05757",
+        "fillcolor": "d05757",
+        "latlngarray": [
+            {"lat": -75.630, "lng": -3.916},
+            {"lat": -75.029, "lng": -1.455},
+            {"lat": -75.142, "lng": -0.895},
+            {"lat": -75.429, "lng": -0.445},
+            {"lat": -75.594, "lng": -1.730},
+            {"lat": -75.545, "lng": -1.917},
+            {"lat": -75.722, "lng": -2.829},
+            {"lat": -75.763, "lng": -3.521}
         ]
     },
