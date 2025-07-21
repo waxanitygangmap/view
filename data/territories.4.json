@@ -170,6 +170,26 @@
 			{"lat": -74.619, "lng": -0.717},
 			{"lat": -74.378, "lng": -0.981}
 		]
+	},
+	{
+		"type": "Territories",
+		"title": "Hawick Avenue Brims",
+		"notes": "Hawick Avenue Brims",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "4f0000",
+		"fillcolor": "4f0000",
+		"latlngarray": [
+			{"lat": -51.022, "lng": -26.113},
+			{"lat": -52.068, "lng": -26.091},
+			{"lat": -52.844, "lng": -26.179},
+			{"lat": -53.208, "lng": -24.652},
+			{"lat": -52.524, "lng": -24.179},
+			{"lat": -51.946, "lng": -23.883},
+			{"lat": -52.040, "lng": -21.993},
+			{"lat": -51.105, "lng": -21.795},
+			{"lat": -51.008, "lng": -24.015}
+		]
 	}
 ]
 
