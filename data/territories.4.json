@@ -1,21 +1,6 @@
 [
 	{
 		"type": "Territories",
-		"title": "Kelly Park Compton Crips",
-		"notes": "Kelly Park Compton Crips",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "0087ff",
-		"fillcolor": "0087ff",
-		"latlngarray": [
-			{"lat": -72.593, "lng": -14.747},
-			{"lat": -72.015, "lng": -16.857},
-			{"lat": -72.421, "lng": -17.944},
-			{"lat": -72.973, "lng": -15.747}
-		]
-	},
-	{
-		"type": "Territories",
 		"title": "Tricky Forum Boyz",
 		"notes": "Tricky Forum Boyz",
 		"wiki_link": "",
@@ -129,10 +114,10 @@
 		"strokecolor": "6e0707",
 		"fillcolor": "6e0707",
 		"latlngarray": [
-			{"lat": -74.984, "lng": -15.907},
-			{"lat": -75.184, "lng": -16.511},
-			{"lat": -75.622, "lng": -14.368},
-			{"lat": -75.441, "lng": -13.753}
+			{"lat": -75.201, "lng": -16.537},
+			{"lat": -74.676, "lng": -14.988},
+			{"lat": -75.159, "lng": -12.516},
+			{"lat": -75.643, "lng": -14.329}
 		]
 	},
 {
