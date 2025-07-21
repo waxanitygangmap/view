@@ -1,91 +1,15 @@
 [
-    {
-        "title": "Playboys 13",
-        "notes": "<>",
-        "wiki_link": "",
-        "order": 0,
-        "strokecolor": "000000",
-        "fillcolor": "000000",
-        "latlngarray": [
-            {"lat": -71.967, "lng": -2.619},
-            {"lat": -72.347, "lng": -4.751},
-            {"lat": -72.632, "lng": -3.971},
-            {"lat": -73.171, "lng": -1.653},
-            {"lat": -72.827, "lng": -0.971},
-            {"lat": -72.507, "lng": -0.334},
-            {"lat": -72.387, "lng": -0.840},
-            {"lat": -72.460, "lng": -1.323},
-            {"lat": -72.267, "lng": -2.125}
-        ]
-    },
-    {
-        "type": "Territories",
-        "title": "<Campanella Park Pirus>",
-        "notes": "<>",
-        "wiki_link": "",
-        "order": 0,
-        "strokecolor": "FF0000",
-        "fillcolor": "FF0000",
-        "latlngarray": [
-            {"lat": -75.630, "lng": -3.916},
-            {"lat": -75.029, "lng": -1.455},
-            {"lat": -75.142, "lng": -0.895},
-            {"lat": -75.429, "lng": -0.445},
-            {"lat": -75.594, "lng": -1.730},
-            {"lat": -75.545, "lng": -1.917},
-            {"lat": -75.722, "lng": -2.829},
-            {"lat": -75.763, "lng": -3.521}
-        ]
-    },
-    {
-        "type": "Territories",
-        "title": "<Holly Hood Pirus>",
-        "notes": "<>",
-        "wiki_link": "",
-        "order": 0,
-        "strokecolor": "934F4F",
-        "fillcolor": "934f4f",
-        "latlngarray": [
-            {"lat": -75.588, "lng": -14.245},
-            {"lat": -75.127, "lng": -12.619},
-            {"lat": -74.793, "lng": -14.278},
-            {"lat": -75.016, "lng": -14.816},
-            {"lat": -74.877, "lng": -15.596},
-            {"lat": -75.141, "lng": -16.409},
-            {"lat": -75.387, "lng": -15.398}
-        ]
-    },
-    {
-        "type": "Territories",
-        "title": "<ParkSide Groovers>",
-        "notes": "<>",
-        "wiki_link": "",
-        "order": 0,
-        "strokecolor": "CE8935",
-        "fillcolor": "CE8935",
-        "latlngarray": [
-            {"lat": -72.818, "lng": -8.892},
-            {"lat": -72.414, "lng": -6.673},
-            {"lat": -72.258, "lng": -6.662},
-            {"lat": -71.824, "lng": -8.431},
-            {"lat": -72.110, "lng": -9.398},
-            {"lat": -72.211, "lng": -9.167},
-            {"lat": -72.434, "lng": -9.914},
-            {"lat": -72.603, "lng": -7.706}
-        ]
-    },
-    {
-        "type": "Territories",
-        "title": "<Kelly Park Compton Crips>",
-        "notes": "<>",
-        "wiki_link": "",
-        "order": 0,
-        "strokecolor": "001FFF",
-        "fillcolor": "001FFF",
-        "latlngarray": [
-            {"lat": -72.980, "lng": -15.769},
-            {"lat": -72.580, "lng": -14.549},
-            {"lat": -72.036, "lng": -16.890},
-            {"lat": -72.421, "lng": -18.043}
-        ]
-    },
+	{
+		"title": "Ace King",
+		"notes": "Koreans. Blackjack is hosted here.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/Korean_Mafia_(Sun_Clan)",
+		"order": 0,
+		"strokecolor": "FD5E53",
+		"fillcolor": "FD5E53",
+		"latlngarray": [
+			{"lat": -56.038, "lng": -12.526},
+			{"lat": -56.276, "lng": -11.317},
+			{"lat": -57.037, "lng": -11.801},
+			{"lat": -56.773, "lng": -13.064}
+		]
+	},
