@@ -1,40 +1,22 @@
 [
     {
-	"type": "Territories",
-	"title": "PlayBoy13",
-	"notes": "Weed Shop",
-	"wiki_link": "",
-	"order": 0,
-	"strokecolor": "ffc40c",
-	"fillcolor": "33ff49",
-	"latlngarray": [
-            {"lat": -71.967, "lng": -2.619},
-            {"lat": -72.347, "lng": -4.751},
-            {"lat": -72.632, "lng": -3.971},
-            {"lat": -73.171, "lng": -1.653},
-            {"lat": -72.827, "lng": -0.971},
-            {"lat": -72.507, "lng": -0.334},
-            {"lat": -72.387, "lng": -0.840},
-            {"lat": -72.460, "lng": -1.323},
-            {"lat": -72.267, "lng": -2.125}
+		"type": "Territories",
+		"title": "Weed Shop",
+		"notes": "Weed Shop",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ffc40c",
+		"fillcolor": "33ff49",
+		"latlngarray": [
+			{"lat": -60.267, "lng": -60.468},
+			{"lat": -60.576, "lng": -59.776},
+			{"lat": -60.386, "lng": -59.117},
+			{"lat": -60.130, "lng": -58.282},
+			{"lat": -59.988, "lng": -58.106},
+			{"lat": -59.850, "lng": -58.392},
+			{"lat": -59.595, "lng": -58.974},
+			{"lat": -59.999, "lng": -59.666},
+			{"lat": -59.922, "lng": -59.864},
+			{"lat": -60.130, "lng": -60.248}
 		]
 	},
-    {
-        "type": "Territories",
-        "title": "Campanella Park Pirus",
-        "notes": "",
-        "wiki_link": "",
-        "order": 0,
-        "strokecolor": "d05757",
-        "fillcolor": "d05757",
-        "latlngarray": [
-            {"lat": -75.630, "lng": -3.916},
-            {"lat": -75.029, "lng": -1.455},
-            {"lat": -75.142, "lng": -0.895},
-            {"lat": -75.429, "lng": -0.445},
-            {"lat": -75.594, "lng": -1.730},
-            {"lat": -75.545, "lng": -1.917},
-            {"lat": -75.722, "lng": -2.829},
-            {"lat": -75.763, "lng": -3.521}
-        ]
-    },
