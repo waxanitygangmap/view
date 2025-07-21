@@ -1,23 +1,243 @@
 [
-    {
+	{
 		"type": "Territories",
-		"title": "Weed Shop",
-		"notes": "Weed Shop",
+		"title": "Kelly Park Compton Crips",
+		"notes": "Kelly Park Compton Crips",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "ffc40c",
-		"fillcolor": "33ff49",
+		"strokecolor": "0087ff",
+		"fillcolor": "0087ff",
 		"latlngarray": [
-			{"lat": -60.267, "lng": -60.468},
-			{"lat": -60.576, "lng": -59.776},
-			{"lat": -60.386, "lng": -59.117},
-			{"lat": -60.130, "lng": -58.282},
-			{"lat": -59.988, "lng": -58.106},
-			{"lat": -59.850, "lng": -58.392},
-			{"lat": -59.595, "lng": -58.974},
-			{"lat": -59.999, "lng": -59.666},
-			{"lat": -59.922, "lng": -59.864},
-			{"lat": -60.130, "lng": -60.248}
+			{"lat": -72.593, "lng": -14.747},
+			{"lat": -72.015, "lng": -16.857},
+			{"lat": -72.421, "lng": -17.944},
+			{"lat": -72.973, "lng": -15.747}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Tricky Forum Boyz",
+		"notes": "Tricky Forum Boyz",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "e32222",
+		"fillcolor": "e32222",
+		"latlngarray": [
+			{"lat": -71.887, "lng": -17.129},
+			{"lat": -71.860, "lng": -16.031},
+			{"lat": -71.829, "lng": -14.635},
+			{"lat": -71.887, "lng": -14.284},
+			{"lat": -71.552, "lng": -13.518},
+			{"lat": -71.517, "lng": -14.232},
+			{"lat": -71.500, "lng": -15.089},
+			{"lat": -71.556, "lng": -15.594},
+			{"lat": -71.535, "lng": -17.132},
+			{"lat": -71.535, "lng": -17.626}
+		]
+	},
+		{
+		"type": "Territories",
+		"title": "ParkSide Groover Varrio",
+		"notes": "ParkSide Groover Varrio",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "e38022",
+		"fillcolor": "e38022",
+		"latlngarray": [
+			{"lat": -72.268, "lng": -6.691},
+			{"lat": -72.394, "lng": -6.603},
+			{"lat": -72.678, "lng": -8.141},
+			{"lat": -72.821, "lng": -8.976},
+			{"lat": -72.454, "lng": -10.052},
+			{"lat": -72.207, "lng": -9.184},
+			{"lat": -72.106, "lng": -9.602},
+			{"lat": -71.776, "lng": -8.558}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "PlayBoys13",
+		"notes": "PlayBoys13",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "1c4693",
+		"fillcolor": "1c4693",
+		"latlngarray": [
+			{"lat": -72.492, "lng": -0.330},
+			{"lat": -72.383, "lng": -0.780},
+			{"lat": -72.463, "lng": -1.341},
+			{"lat": -72.256, "lng": -2.209},
+			{"lat": -71.939, "lng": -2.516},
+			{"lat": -72.273, "lng": -4.626},
+			{"lat": -72.386, "lng": -4.790},
+			{"lat": -72.571, "lng": -4.076},
+			{"lat": -72.997, "lng": -2.527},
+			{"lat": -73.183, "lng": -1.648},
+			{"lat": -73.020, "lng": -1.198},
+			{"lat": -72.709, "lng": -0.780}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Queen Street Bloods",
+		"notes": "Queen Street Bloods",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ff5f5f",
+		"fillcolor": "ff5f5f",
+		"latlngarray": [
+			{"lat": -73.500, "lng": -8.141},
+			{"lat": -73.819, "lng": -9.086},
+			{"lat": -73.983, "lng": -8.712},
+			{"lat": -74.098, "lng": -8.492},
+			{"lat": -74.221, "lng": -8.130},
+			{"lat": -74.423, "lng": -7.273},
+			{"lat": -74.158, "lng": -6.218},
+			{"lat": -73.986, "lng": -5.757},
+			{"lat": -73.785, "lng": -6.823},
+			{"lat": -73.646, "lng": -7.427}
+		]
+	},
+	{
+		"type": "Territories",
+		"title": "Florencia13",
+		"notes": "Florencia13",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "70e7f9",
+		"fillcolor": "70e7f9",
+		"latlngarray": [
+			{"lat": -74.155, "lng": 1.129},
+			{"lat": -74.461, "lng": 0.524},
+			{"lat": -74.470, "lng": -0.354},
+			{"lat": -74.628, "lng": -0.365},
+			{"lat": -74.891, "lng": -1.123},
+			{"lat": -75.059, "lng": -0.717},
+			{"lat": -75.362, "lng": -0.245},
+			{"lat": -75.323, "lng": 0.524},
+			{"lat": -75.028, "lng": 1.700},
+			{"lat": -74.547, "lng": 1.898},
+			{"lat": -74.239, "lng": 1.931}
 		]
 	}
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
