@@ -1,1 +1,15 @@
-
+	{
+		"type": "Territories",
+		"title": "<TEST>",
+		"notes": "<TEST>",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "ad4c4c",
+		"fillcolor": "ad4c4c",
+		"latlngarray": [
+			{"lat": -54.974, "lng": -13.936},
+			{"lat": -55.325, "lng": -9.980},
+			{"lat": -56.872, "lng": -9.772},
+			{"lat": -56.607, "lng": -14.255}
+		]
+	},
