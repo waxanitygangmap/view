@@ -1,8 +1,6 @@
-
-```json
+[
     {
-        "type": "Territories",
-        "title": "<Playboys 13>",
+        "title": "Playboys 13",
         "notes": "<>",
         "wiki_link": "",
         "order": 0,
@@ -20,14 +18,12 @@
             {"lat": -72.267, "lng": -2.125}
         ]
     },
-```
-```json
     {
         "type": "Territories",
         "title": "<Campanella Park Pirus>",
         "notes": "<>",
         "wiki_link": "",
-        "order": 1,
+        "order": 0,
         "strokecolor": "FF0000",
         "fillcolor": "FF0000",
         "latlngarray": [
@@ -41,14 +37,12 @@
             {"lat": -75.763, "lng": -3.521}
         ]
     },
-```
-```json
     {
         "type": "Territories",
         "title": "<Holly Hood Pirus>",
         "notes": "<>",
         "wiki_link": "",
-        "order": 2,
+        "order": 0,
         "strokecolor": "934F4F",
         "fillcolor": "934f4f",
         "latlngarray": [
@@ -61,14 +55,12 @@
             {"lat": -75.387, "lng": -15.398}
         ]
     },
-```
-```json
     {
         "type": "Territories",
         "title": "<ParkSide Groovers>",
         "notes": "<>",
         "wiki_link": "",
-        "order": 3,
+        "order": 0,
         "strokecolor": "CE8935",
         "fillcolor": "CE8935",
         "latlngarray": [
@@ -82,14 +74,12 @@
             {"lat": -72.603, "lng": -7.706}
         ]
     },
-```
-```json
     {
         "type": "Territories",
         "title": "<Kelly Park Compton Crips>",
         "notes": "<>",
         "wiki_link": "",
-        "order": 4,
+        "order": 0,
         "strokecolor": "001FFF",
         "fillcolor": "001FFF",
         "latlngarray": [
@@ -99,4 +89,3 @@
             {"lat": -72.421, "lng": -18.043}
         ]
     },
-```
