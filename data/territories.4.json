@@ -105,21 +105,6 @@
 			{"lat": -74.239, "lng": 1.931}
 		]
 	},
-	{
-		"type": "Territories",
-		"title": "Holly Hood Pirus",
-		"notes": "Holly Hood Pirus",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "6e0707",
-		"fillcolor": "6e0707",
-		"latlngarray": [
-			{"lat": -75.201, "lng": -16.537},
-			{"lat": -74.676, "lng": -14.988},
-			{"lat": -75.159, "lng": -12.516},
-			{"lat": -75.643, "lng": -14.329}
-		]
-	},
 {
         "type": "Territories",
         "title": "Campanella Park Pirus",
