@@ -156,7 +156,24 @@
 			{"lat": -74.378, "lng": -0.981}
 		]
 	},
-
+{
+        "type": "Territories",
+        "title": "Bay City Brims",
+        "notes": "Bay City Brims",
+        "wiki_link": "",
+        "order": 0,
+        "strokecolor": "000000",
+        "fillcolor": "750000",
+        "latlngarray": [
+            {"lat": -66.998, "lng": -52.034},
+            {"lat": -66.371, "lng": -52.441},
+            {"lat": -66.008, "lng": -52.727},
+            {"lat": -65.498, "lng": -53.693},
+            {"lat": -66.292, "lng": -55.473},
+            {"lat": -67.070, "lng": -54.221},
+            {"lat": -67.015, "lng": -53.913}
+        ]
+    }
 ]
 
 
