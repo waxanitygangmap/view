@@ -159,6 +159,30 @@
             {"lat": -67.015, "lng": -53.913}
         ]
     }
+	{
+		"type": "Territories",
+		"title": "Ten Line Gangster Crip",
+		"notes": "Ten Line Gangster Crip",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "267dff",
+		"fillcolor": "267dff",
+		"latlngarray": [
+			{"lat": -69.136, "lng": -46.738},
+			{"lat": -69.295, "lng": -47.485},
+			{"lat": -69.373, "lng": -47.881},
+			{"lat": -69.446, "lng": -48.770},
+			{"lat": -69.493, "lng": -49.551},
+			{"lat": -69.722, "lng": -49.397},
+			{"lat": -70.197, "lng": -48.880},
+			{"lat": -70.334, "lng": -48.529},
+			{"lat": -70.378, "lng": -48.089},
+			{"lat": -70.397, "lng": -47.496},
+			{"lat": -70.360, "lng": -46.980},
+			{"lat": -70.096, "lng": -45.595},
+			{"lat": -70.006, "lng": -45.244}
+		]
+	}
 ]
 
 
