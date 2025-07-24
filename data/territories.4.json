@@ -65,6 +65,24 @@
 			{"lat": -73.884, "lng": -7.717},
 			{"lat": -73.771, "lng": -7.365}
 		]
+        },
+	{
+		"type": "Territories",
+		"title": "94 Hoover Criminal Gang",
+		"notes": "94 Hoover Criminal Gang",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "9c6300",
+		"fillcolor": "9c6300",
+		"latlngarray": [
+			{"lat": -73.585, "lng": -1.337},
+			{"lat": -73.877, "lng": -0.051},
+			{"lat": -73.963, "lng": -0.315},
+			{"lat": -74.420, "lng": -0.996},
+			{"lat": -74.599, "lng": -0.765},
+			{"lat": -74.802, "lng": -1.413},
+			{"lat": -74.317, "lng": -3.611}
+		]
 	}
 ]
 
