@@ -63,6 +63,25 @@
 	},
 	{
 		"type": "Territories",
+		"title": "Queen Street Bloods",
+		"notes": "Queen Street Bloods",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "571c1c",
+		"fillcolor": "571c1c",
+		"latlngarray": [
+			{"lat": -73.764, "lng": -9.660},
+			{"lat": -74.117, "lng": -8.528},
+			{"lat": -74.441, "lng": -7.210},
+			{"lat": -74.054, "lng": -5.781},
+			{"lat": -73.786, "lng": -6.902},
+			{"lat": -73.479, "lng": -8.067},
+			{"lat": -73.703, "lng": -8.792},
+			{"lat": -73.604, "lng": -9.297}
+		]
+	},
+	{
+		"type": "Territories",
 		"title": "Varrio South Side 38th Street",
 		"notes": "Varrio South Side 38th Street",
 		"wiki_link": "",
