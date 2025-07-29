@@ -68,20 +68,22 @@
         },
 	{
 		"type": "Territories",
-		"title": "94 Hoover Criminal Gang",
-		"notes": "94 Hoover Criminal Gang",
+		"title": "Spook Town Compton Crips",
+		"notes": "Spook Town Compton Crips",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "9c6300",
-		"fillcolor": "9c6300",
+		"strokecolor": "003670",
+		"fillcolor": "003670",
 		"latlngarray": [
-			{"lat": -73.585, "lng": -1.337},
-			{"lat": -73.877, "lng": -0.051},
-			{"lat": -73.963, "lng": -0.315},
-			{"lat": -74.420, "lng": -0.996},
-			{"lat": -74.599, "lng": -0.765},
-			{"lat": -74.802, "lng": -1.413},
-			{"lat": -74.317, "lng": -3.611}
+			{"lat": -66.504, "lng": -50.382},
+			{"lat": -66.009, "lng": -48.492},
+			{"lat": -66.561, "lng": -47.317},
+			{"lat": -66.951, "lng": -46.691},
+			{"lat": -67.428, "lng": -48.734},
+			{"lat": -67.445, "lng": -48.888},
+			{"lat": -67.420, "lng": -49.042},
+			{"lat": -67.076, "lng": -49.536},
+			{"lat": -66.848, "lng": -49.910}
 		]
 	},
 	{
