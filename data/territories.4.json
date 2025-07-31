@@ -80,6 +80,28 @@
 			{"lat": -73.604, "lng": -9.297}
 		]
 	},
+		{
+		"type": "Territories",
+		"title": "Campanella Park Pirus",
+		"notes": "Campanella Park Pirus",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "ff0d0d",
+		"fillcolor": "ff0d0d",
+		"latlngarray": [
+			{"lat": -68.023, "lng": -51.224},
+			{"lat": -68.138, "lng": -51.872},
+			{"lat": -68.232, "lng": -52.421},
+			{"lat": -68.402, "lng": -53.190},
+			{"lat": -68.588, "lng": -54.135},
+			{"lat": -69.356, "lng": -54.179},
+			{"lat": -69.364, "lng": -53.421},
+			{"lat": -69.267, "lng": -52.641},
+			{"lat": -69.017, "lng": -51.202},
+			{"lat": -68.886, "lng": -50.455},
+			{"lat": -68.386, "lng": -50.894}
+		]
+	},
 	{
 		"type": "Territories",
 		"title": "Varrio South Side 38th Street",
