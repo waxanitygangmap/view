@@ -19,30 +19,6 @@
     },
 	{
 		"type": "Territories",
-		"title": "Ten Line Gangster Crips",
-		"notes": "Ten Line Gangster Crip",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "267dff",
-		"fillcolor": "267dff",
-		"latlngarray": [
-			{"lat": -69.136, "lng": -46.738},
-			{"lat": -69.295, "lng": -47.485},
-			{"lat": -69.373, "lng": -47.881},
-			{"lat": -69.446, "lng": -48.770},
-			{"lat": -69.493, "lng": -49.551},
-			{"lat": -69.722, "lng": -49.397},
-			{"lat": -70.197, "lng": -48.880},
-			{"lat": -70.334, "lng": -48.529},
-			{"lat": -70.378, "lng": -48.089},
-			{"lat": -70.397, "lng": -47.496},
-			{"lat": -70.360, "lng": -46.980},
-			{"lat": -70.096, "lng": -45.595},
-			{"lat": -70.006, "lng": -45.244}
-		]
-	},
-	{
-		"type": "Territories",
 		"title": "Spook Town Compton Crips",
 		"notes": "Spook Town Compton Crips",
 		"wiki_link": "",
@@ -59,6 +35,40 @@
 			{"lat": -67.420, "lng": -49.042},
 			{"lat": -67.076, "lng": -49.536},
 			{"lat": -66.848, "lng": -49.910}
+		]
+	},
+		{
+		"type": "Territories",
+		"title": "Ten Line Gangster Crips",
+		"notes": "Ten Line Gangster Crips",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "267dff",
+		"fillcolor": "267dff",
+		"latlngarray": [
+			{"lat": -65.485, "lng": -36.912},
+			{"lat": -65.416, "lng": -37.571},
+			{"lat": -65.394, "lng": -38.241},
+			{"lat": -65.426, "lng": -39.208},
+			{"lat": -65.439, "lng": -39.329},
+			{"lat": -65.499, "lng": -39.439},
+			{"lat": -65.576, "lng": -39.461},
+			{"lat": -66.543, "lng": -39.483},
+			{"lat": -66.834, "lng": -39.296},
+			{"lat": -66.783, "lng": -38.999},
+			{"lat": -66.735, "lng": -38.527},
+			{"lat": -66.757, "lng": -38.318},
+			{"lat": -66.873, "lng": -37.714},
+			{"lat": -66.891, "lng": -37.385},
+			{"lat": -66.683, "lng": -37.022},
+			{"lat": -66.596, "lng": -36.648},
+			{"lat": -66.709, "lng": -36.681},
+			{"lat": -66.761, "lng": -36.462},
+			{"lat": -66.748, "lng": -36.066},
+			{"lat": -66.696, "lng": -35.462},
+			{"lat": -66.700, "lng": -34.957},
+			{"lat": -66.381, "lng": -34.946},
+			{"lat": -65.489, "lng": -34.880}
 		]
 	},
 	{
