@@ -159,27 +159,6 @@
 			{"lat": -75.775, "lng": -6.584},
 			{"lat": -75.549, "lng": -5.804}
 		]
-	},
-	{
-		"type": "Territories",
-		"title": "Varrio South Side 38th Street",
-		"notes": "Varrio South Side 38th Street",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "ad8f3d",
-		"fillcolor": "ad8f3d",
-		"latlngarray": [
-			{"lat": -72.319, "lng": -18.373},
-			{"lat": -71.774, "lng": -20.570},
-			{"lat": -71.598, "lng": -20.483},
-			{"lat": -71.174, "lng": -18.296},
-			{"lat": -71.120, "lng": -18.022},
-			{"lat": -71.128, "lng": -17.736},
-			{"lat": -71.441, "lng": -17.681},
-			{"lat": -71.542, "lng": -17.714},
-			{"lat": -71.705, "lng": -17.615},
-			{"lat": -71.877, "lng": -17.187}
-		]
 	}
 ]
 
