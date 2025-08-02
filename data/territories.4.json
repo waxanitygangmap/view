@@ -112,6 +112,34 @@
 			{"lat": -68.386, "lng": -50.894}
 		]
 	},
+		{
+		"type": "Territories",
+		"title": "Sureños 13",
+		"notes": "Sureños 13",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "80a5e0",
+		"fillcolor": "80a5e0",
+		"latlngarray": [
+			{"lat": -76.551, "lng": -1.760},
+			{"lat": -76.443, "lng": -2.111},
+			{"lat": -76.227, "lng": -2.957},
+			{"lat": -76.096, "lng": -3.496},
+			{"lat": -75.910, "lng": -4.045},
+			{"lat": -75.795, "lng": -4.737},
+			{"lat": -75.902, "lng": -5.111},
+			{"lat": -76.104, "lng": -5.836},
+			{"lat": -76.264, "lng": -6.418},
+			{"lat": -76.507, "lng": -7.352},
+			{"lat": -76.624, "lng": -7.758},
+			{"lat": -76.688, "lng": -7.670},
+			{"lat": -76.981, "lng": -6.275},
+			{"lat": -77.189, "lng": -5.012},
+			{"lat": -77.192, "lng": -4.210},
+			{"lat": -77.052, "lng": -3.221},
+			{"lat": -76.645, "lng": -1.936}
+		]
+	},
 	{
 		"type": "Territories",
 		"title": "Varrio South Side 38th Street",
