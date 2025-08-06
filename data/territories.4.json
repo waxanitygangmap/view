@@ -140,6 +140,29 @@
 			{"lat": -76.645, "lng": -1.936}
 		]
 	},
+	{
+		"type": "Territories",
+		"title": "92 Hoover Criminal Gang",
+		"notes": "92 Hoover Criminal Gang",
+		"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",
+		"order": 0,
+		"strokecolor": "fc7703",
+		"fillcolor": "fc7703",
+		"latlngarray": [
+			{"lat": -72.361, "lng": -5.026},
+			{"lat": -72.654, "lng": -3.839},
+			{"lat": -72.853, "lng": -3.048},
+			{"lat": -73.196, "lng": -1.719},
+			{"lat": -73.231, "lng": -1.576},
+			{"lat": -73.123, "lng": -1.356},
+			{"lat": -72.976, "lng": -1.159},
+			{"lat": -72.726, "lng": -0.807},
+			{"lat": -72.516, "lng": -1.675},
+			{"lat": -72.635, "lng": -2.202},
+			{"lat": -72.539, "lng": -2.444},
+			{"lat": -72.079, "lng": -3.389}
+		]
+	},
 		{
 		"type": "Territories",
 		"title": "99 Watts Mafia Crips",
